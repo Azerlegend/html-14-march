@@ -1,0 +1,20 @@
+*{
+    border:2px solid black;
+    padding: 5px;
+}  
+
+.mainstyle{
+    background-color:grey;
+    color: white;
+   
+}
+
+.firststyle{
+    background-color: lightgrey;
+}
+
+.secondstyle{
+    background-color:lightgrey;
+}
+
+  
